@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: a2e1232410d59b8408fc7d12dffde6e2
+timeCreated: 1442955622
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jake_0
+    21300002: Jake_1
+    21300004: Jake_2
+    21300006: Jake_3
+    21300008: Jake_4
+    21300010: Jake_5
+    21300012: Jake_6
+    21300014: Jake_7
+    21300016: Jake_8
+    21300018: Jake_9
+    21300020: Jake_10
+    21300022: Jake_11
+    21300024: Jake_12
+    21300026: Jake_13
+    21300028: Jake_14
+    21300030: Jake_15
+    21300032: Jake_16
+    21300034: Jake_17
+    21300036: Jake_18
+    21300038: Jake_19
+    21300040: Jake_20
+    21300042: Jake_21
+    21300044: Jake_22
+    21300046: Jake_23
+    21300048: Jake_24
+    21300050: Jake_25
+    21300052: Jake_26
+    21300054: Jake_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 120
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Jake_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 227
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 228
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 237
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_3
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 238
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_4
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 0
+        width: 237
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_5
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 0
+        width: 238
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_6
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 0
+        width: 238
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_7
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 0
+        width: 237
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_8
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 0
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_9
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 0
+        width: 241
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_10
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 0
+        width: 238
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_11
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 0
+        width: 237
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_12
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 0
+        width: 234
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_13
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 0
+        width: 234
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_14
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 0
+        width: 237
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_15
+      rect:
+        serializedVersion: 2
+        x: 3788
+        y: 0
+        width: 238
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_16
+      rect:
+        serializedVersion: 2
+        x: 4036
+        y: 0
+        width: 245
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_17
+      rect:
+        serializedVersion: 2
+        x: 4291
+        y: 0
+        width: 245
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_18
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 2
+        width: 248
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_19
+      rect:
+        serializedVersion: 2
+        x: 4791
+        y: 2
+        width: 248
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_20
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 2
+        width: 248
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_21
+      rect:
+        serializedVersion: 2
+        x: 5297
+        y: 2
+        width: 245
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_22
+      rect:
+        serializedVersion: 2
+        x: 5549
+        y: 2
+        width: 241
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_23
+      rect:
+        serializedVersion: 2
+        x: 5800
+        y: 2
+        width: 241
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_24
+      rect:
+        serializedVersion: 2
+        x: 6055
+        y: 2
+        width: 234
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_25
+      rect:
+        serializedVersion: 2
+        x: 6310
+        y: 2
+        width: 230
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_26
+      rect:
+        serializedVersion: 2
+        x: 6565
+        y: 2
+        width: 224
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jake_27
+      rect:
+        serializedVersion: 2
+        x: 6820
+        y: 2
+        width: 227
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
