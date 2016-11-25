@@ -15,15 +15,14 @@ public class buttonHandlerBehavior : MonoBehaviour {
 		buttonAnimators = this.GetComponentsInChildren<Animator>();
 		buttonPosition = this.GetComponentsInChildren<Transform>();
 		joystick = GameObject.Find("PuppetChikiDanceDirector").GetComponent<PuppetChikiDanceDirector>().JoystickInitialisation (1);
-		Debug.Log(this.buttonAnimators);
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		bool triangleButtonPressed = Input.GetButton (joystick [11]) || Input.GetKey("up"); //Triangle
+		bool circleButtonPressed = Input.GetButton (joystick [10]) || Input.GetKey("right"); //Rond
 		bool crossButtonPressed = Input.GetButton (joystick [9]) || Input.GetKey("down"); //Croix
 		bool squareButtonPressed = Input.GetButton (joystick [8]) || Input.GetKey("left"); //Carré
-		bool circleButtonPressed = Input.GetButton (joystick [10]) || Input.GetKey("right"); //Rond
 		AnimateButtons(triangleButtonPressed,crossButtonPressed,squareButtonPressed,circleButtonPressed);
 		AddEffects(triangleButtonPressed,crossButtonPressed,squareButtonPressed,circleButtonPressed);
 

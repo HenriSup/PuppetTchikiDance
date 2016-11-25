@@ -1,21 +1,23 @@
 fileFormatVersion: 2
-guid: 0087710b313df5f4599b93e45e47a17a
-timeCreated: 1479295519
+guid: 065b8d60137133e4db93a574df4a18d1
+timeCreated: 1480003133
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Touches clone_0
-    21300002: Touches clone_1
-    21300004: Touches clone_2
-    21300006: Touches clone_3
-    21300008: Touches clone_4
-    21300010: Touches clone_5
-    21300012: Touches clone_6
-    21300014: Touches clone_7
-    21300016: Touches clone_8
-    21300018: Touches clone_9
-    21300020: Touches clone_10
-    21300022: Touches clone_11
+    21300000: Touches clone 1_0
+    21300002: Touches clone 1_1
+    21300004: Touches clone 1_2
+    21300006: Touches clone 1_3
+    21300008: Touches clone 1_4
+    21300010: Touches clone 1_5
+    21300012: Touches clone 1_6
+    21300014: Touches clone 1_7
+    21300016: Touches clone 1_8
+    21300018: Touches clone 1_9
+    21300020: Touches clone 1_10
+    21300022: Touches clone 1_11
+    21300024: Touches clone 1_12
+    21300026: Touches clone 1_13
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -29,13 +31,13 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
   generateCubemap: 0
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
+  cubemapConvolutionSteps: 7
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
@@ -54,15 +56,57 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 15
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: Touches clone_0
+    - serializedVersion: 2
+      name: Touches clone 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Touches clone 1_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 176
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Touches clone 1_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 176
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Touches clone 1_3
       rect:
         serializedVersion: 2
         x: 0
@@ -72,7 +116,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Touches clone_1
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Touches clone 1_4
       rect:
         serializedVersion: 2
         x: 60
@@ -82,7 +129,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Touches clone_2
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Touches clone 1_5
       rect:
         serializedVersion: 2
         x: 120
@@ -92,7 +142,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Touches clone_3
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Touches clone 1_6
       rect:
         serializedVersion: 2
         x: 0
@@ -102,7 +155,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Touches clone_4
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Touches clone 1_7
       rect:
         serializedVersion: 2
         x: 60
@@ -112,7 +168,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Touches clone_5
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Touches clone 1_8
       rect:
         serializedVersion: 2
         x: 120
@@ -122,7 +181,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Touches clone_6
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Touches clone 1_9
       rect:
         serializedVersion: 2
         x: 0
@@ -132,7 +194,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Touches clone_7
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Touches clone 1_10
       rect:
         serializedVersion: 2
         x: 60
@@ -142,7 +207,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Touches clone_8
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Touches clone 1_11
       rect:
         serializedVersion: 2
         x: 120
@@ -152,7 +220,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Touches clone_9
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Touches clone 1_12
       rect:
         serializedVersion: 2
         x: 0
@@ -162,7 +233,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Touches clone_10
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Touches clone 1_13
       rect:
         serializedVersion: 2
         x: 60
@@ -172,16 +246,9 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Touches clone_11
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 0
-        width: 60
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
   spritePackingTag: 
   userData: 
   assetBundleName: 
